@@ -1,3 +1,4 @@
 
 #こんにちは、Pythhon
-str = "hello python"; print (str)
+str = "hello python"
+print (str)
